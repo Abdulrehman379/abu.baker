@@ -10,7 +10,7 @@ const Contact = () => {
         src="/home.jpg"
         alt="Contact"
         width={200}
-        height={100}
+        height={150}
         className="mx-auto rounded-lg shadow-md mb-6"
       />
       <p className="text-lg leading-relaxed">
